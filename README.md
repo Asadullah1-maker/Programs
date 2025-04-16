@@ -1,2 +1,2 @@
 # Programs
-Programs I have made
+Some simple programs I have made.
